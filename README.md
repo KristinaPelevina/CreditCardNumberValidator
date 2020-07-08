@@ -8,9 +8,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* https://github.com/KristinaPelevina/CreditCardNumberValidator/issues/1#issue-651620679
->
 * https://github.com/KristinaPelevina/CreditCardNumberValidator/issues/2#issue-651621689
+>
+
 
 ## Описание процесса тестирования
 
@@ -23,10 +23,12 @@
 
 ### В качестве тестовых данных использовались данные:
 > https://github.com/netology-code/javaqa-homeworks/tree/master/intro  (задача №2)
+
 > https://github.com/netology-code/javaqa-code/blob/master/1.1_intro/hello-programming/src/Main.java
+
 > https://www.freeformatter.com/credit-card-number-generator-validator.html
 
-* Программа "IntelliJ IDEA" должна установиться согласна инструкции
+* Программа "IntelliJ IDEA" должна установиться согласно инструкции
 * Список валидных ключей, при проверке которых результат должен был быть ОК
 
 ### Тестирование производилось в следующем окружении:
@@ -35,3 +37,4 @@
 
 > Java 11.0.7
 
+> IntelliJ IDEA Community 2020.1.2
